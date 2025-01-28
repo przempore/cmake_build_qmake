@@ -2,3 +2,4 @@
 .cache/
 .qmake.stash
 build/
+compile_commands.json
